@@ -1,4 +1,4 @@
-torch==2.0.1
+torch==2.2.0
 nltk
 spacy==3.4.4
 pandas==1.5.3
