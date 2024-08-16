@@ -1,0 +1,16 @@
+torch==2.0.1
+nltk
+spacy==3.4.4
+pandas==1.5.3
+numpy
+streamlit
+polars==0.18.0
+streamlit-vis-timeline==0.3.0
+anthropic==0.3.5 
+medcat
+peft
+accelerate
+sentencepiece
+boto3
+rank_bm25
+nltk

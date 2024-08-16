@@ -1,0 +1,7 @@
+name: fact_check
+dependencies:
+- python=3.10.9
+- pip
+- jupyter
+- pip:
+    - -r requirements.txt
