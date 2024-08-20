@@ -14,3 +14,4 @@ sentencepiece
 boto3
 rank_bm25
 nltk
+faiss_cpu

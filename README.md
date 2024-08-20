@@ -30,6 +30,7 @@ conda env create -f environment.yml
 conda activate fact_check
 pip install -U git+https://github.com/huggingface/transformers@9ed538f2e67ee10323d96c97284cf83d44f0c507
 pip install -U medcat==1.9.0 --no-deps
+pip install -U huggingface_hub
 ```
 
 ### Step 1. Download Data
